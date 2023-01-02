@@ -13,6 +13,7 @@ int main()
 
 {
 int num;
+cout<<"enter number to get the factorial : ";	
 cin >>num;
-cout<<fact(num);	
+cout<<"factorial = "<<fact(num);	
 }
